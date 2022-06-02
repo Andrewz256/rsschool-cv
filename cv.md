@@ -7,7 +7,7 @@
 	+ 89888898989888
 * Telegram
 	+ @zbcxzczxchjqwew tg
-## Interestы
+## Interests
 * learn
 * money
 * languages
