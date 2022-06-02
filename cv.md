@@ -1,17 +1,25 @@
+## Name
 * AZ
-* Contacts
-	+ andrewzmeevskiy@gmail.com
-	+ 89888898989888 phone
-	+ @zbcxzczxchjqwew tg
-* learn and money
+##  Contacts
+* Email
++ andrewzmeevskiy@gmail.com
+* Phone
++ 89888898989888
+* Telegram
++ @zbcxzczxchjqwew tg
+## Interestы
+* learn
+* money
 * languages
-	+ JS
-		- REACT
-		- Angular
-	+ Python
-		-Django
-	+ C#
-* '''
++ JS
+- REACT
+- Angular
++ Python
+- Django
++ C#
+## Code sample
+
+ '''
 	function catsInit() {
     
 	var catimg = document.getElementById('catImg');
@@ -23,6 +31,9 @@
 
 	};
   ''' 
+## Position
 * Junior
+## Education
 * high education
-* english b1-b2
+## English
+* b1-b2
