@@ -19,7 +19,7 @@
 	+ C#
 ## Code sample
 
- 	'''
+  ```	
 	function catsInit() {
     
 	var catimg = document.getElementById('catImg');
@@ -30,7 +30,7 @@
     		});
 
 	};
- 	''' 
+ ``` 
 ## Position
 	* Junior
 ## Education
