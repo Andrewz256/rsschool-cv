@@ -1,22 +1,23 @@
+# CV FOR RSSchool
 ## Name
-- AZ
+AndrewZ
 ## Contacts
 - Email
-  + andrewzmeevskiy@gmail.com
+  - andrewzmeevskiy@gmail.com
 - Phone
-  + 89888898989888
+  - 89888898989888
 - Telegram
-  + @zbcxzczxchjqwew tg
+  - @huijong
 ## Interests
 - learn
 - money
 - languages
-  + JS
+  - JS
     - REACT
     - Angular
-  + Python
+  - Python
     - Django
-  + C#
+  - C#
 ## Code sample
 ---
 ```
