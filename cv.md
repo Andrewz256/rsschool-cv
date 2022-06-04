@@ -18,10 +18,8 @@
 		- Django
 	+ C#
 ## Code sample
-
-  ```	
+```
 	function catsInit() {
-    
 	var catimg = document.getElementById('catImg');
     	catimg.addEventListener('click', function(){
        		 controller.clickCounter();
@@ -30,10 +28,10 @@
     		});
 
 	};
- ``` 
+```
 ## Position
-	* Junior
+* Junior
 ## Education
-	* high education
+* high education
 ## English
-	* b1-b2
+* b1-b2
