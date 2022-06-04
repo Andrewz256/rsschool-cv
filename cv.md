@@ -10,6 +10,7 @@ AndrewZ
 - Telegram
   - @huijong
 
+please write to email
 ## Interests
 - learn
 - money
@@ -21,6 +22,7 @@ AndrewZ
     - Django
   - C#
 
+and other and other and other
 ## Code sample
 ---
 ```
@@ -35,12 +37,14 @@ AndrewZ
 ```
 ---
 
+counting cats
 ## Position
 - Junior
 
+becose i no understand
 ## Education
 - high education
 
+
 ## English
 - b1-b2
-
