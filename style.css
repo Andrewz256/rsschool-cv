@@ -1,0 +1,19 @@
+#catsView{
+	display: block;
+	height: 300px;
+	width: 400px;
+	float: left;
+
+}
+#cats{
+	display: block;
+	height: 300px;
+}
+
+#editBut{
+	display: inline;
+}
+#editCats{
+	display: none;
+	float: center;
+}
