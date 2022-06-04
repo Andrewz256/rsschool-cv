@@ -19,15 +19,14 @@
 	+ C#
 ## Code sample
 ```
-function catsInit() {
-var catimg = document.getElementById('catImg');
-catimg.addEventListener('click', function(){
-      controller.clickCounter();
-      var catcount = document.getElementById('catCount');
-      catcount.textContent = currentCat.catCount;
-      });
-
-};
+	function catsInit() {
+	var catimg = document.getElementById('catImg');
+	catimg.addEventListener('click', function(){
+      	  controller.clickCounter();
+	  var catcount = document.getElementById('catCount');
+	  catcount.textContent = currentCat.catCount;
+	  });
+	};
 ```
 ## Position
 * Junior
