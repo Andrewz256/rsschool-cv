@@ -1,6 +1,7 @@
 # CV FOR RSSchool
 ## Name
 AndrewZ
+
 ## Contacts
 - Email
   - andrewzmeevskiy@gmail.com
@@ -8,6 +9,7 @@ AndrewZ
   - 89888898989888
 - Telegram
   - @huijong
+
 ## Interests
 - learn
 - money
@@ -18,6 +20,7 @@ AndrewZ
   - Python
     - Django
   - C#
+
 ## Code sample
 ---
 ```
@@ -31,9 +34,13 @@ AndrewZ
 	};
 ```
 ---
+
 ## Position
 - Junior
+
 ## Education
 - high education
+
 ## English
 - b1-b2
+
