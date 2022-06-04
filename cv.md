@@ -1,16 +1,16 @@
 ## Name
-* AZ
+- AZ
 ## Contacts
-* Email
+- Email
   + andrewzmeevskiy@gmail.com
-* Phone
+- Phone
   + 89888898989888
-* Telegram
+- Telegram
   + @zbcxzczxchjqwew tg
 ## Interests
-* learn
-* money
-* languages
+- learn
+- money
+- languages
   + JS
     - REACT
     - Angular
@@ -31,8 +31,8 @@
 ```
 ---
 ## Position
-* Junior
+- Junior
 ## Education
-* high education
+- high education
 ## English
-* b1-b2
+- b1-b2
