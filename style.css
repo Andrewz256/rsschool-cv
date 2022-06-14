@@ -8,10 +8,9 @@
 
  }
  @media (max-width: 768px) {
-	.section,
-	.head-section,
-	.right-section,
-	.left-section {
+	div.head-section,
+	div.right-section,
+	div.left-section {
 	  width: 100%;
 	}
   }
