@@ -33,10 +33,7 @@ article {
 	padding-top: 10px;
 }
 
-.container {
-    max-width: 1440px;
-    margin: 0 auto;
-}
+
 
 .nav-list {
 	list-style: none;
@@ -126,12 +123,19 @@ article {
 	margin: 0;
   }
 
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+	
+}
+
 .main-container {
 	display: flex;
 	flex-wrap: wrap;
 	padding: 10px;
+
 }
-  
+
 .left-section {
 	width: calc(2 * (100% / 3));
 }
@@ -144,16 +148,17 @@ article {
 	background-color:rgb(97, 32, 2);
 }
 
+.footer {
+	padding: o;
+	text-align: center;
+}
 
 .logo {
 
 	width: 100px;
 	height: 40px;
 }
-.footer {
-	padding: auto;
-	
-}
+
 .year-icon,
 .githab-icon i {
 	font-size: 55px;
