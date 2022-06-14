@@ -34,8 +34,17 @@ article {
 }
 
 
+h1 {
+	font-family: Roboto;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	letter-spacing: 50px;
+	margin: 0;
 
+}
 .nav-list {
+	font-family: Roboto;
 	list-style: none;
 	display: flex;
 	justify-content: flex-start;
@@ -45,13 +54,17 @@ article {
 
 .nav-link {
 	padding: 0 5px;
-	line-height: 20px;
+	line-height: 15px;
 	transition: .3s;
 	color:gainsboro;
 	text-decoration: none;
+	font-style: oblique;
+	letter-spacing: 3px;
 	transition: color 0.5;
 
 }
+
+
 .name-ul  {
 	margin: 20px;
 	line-height: 40px;
@@ -83,6 +96,7 @@ article {
 .chapter-title {
 	font-family: Roboto;
 	font-size: 20px;
+	letter-spacing: 3px;
 	color:crimson;
 	padding-left: 15%;
   }
@@ -151,6 +165,7 @@ article {
 .footer {
 	padding: o;
 	text-align: center;
+	
 }
 
 .logo {
@@ -158,11 +173,19 @@ article {
 	width: 100px;
 	height: 40px;
 }
-
-.year-icon,
+.githab-icon {
+	margin-left: 20px;
+	
+}
 .githab-icon i {
 	font-size: 55px;
 	color: black;
+}
+.year-icon {
+	padding-left: 20px;
+	font-size: 20px;
+	color: black;
+	text-align: start;
 }
 #languages {
 	margin-top: 50px;
