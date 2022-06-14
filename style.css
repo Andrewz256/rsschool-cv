@@ -1,0 +1,194 @@
+
+* {
+    box-sizing: border-box;
+  }
+@font-face {
+	font-family: Montserrat;
+	src: local("Montserrat"), url(./assets/fonts/Montserrat-Regular.ttf);
+
+ }
+ @media (max-width: 768px) {
+	div.head-section,
+	div.right-section,
+	div.left-section {
+	  width: 100%;
+	}
+  }
+ html {
+	scroll-behavior: smooth; 
+  }
+ body {
+	font-family: 'Montserrat';
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #4d2323;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+  }
+
+article {
+	padding-top: 10px;
+}
+
+
+h1 {
+	font-family: Roboto;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	letter-spacing: 50px;
+	margin: 0;
+
+}
+.nav-list {
+	font-family: Roboto;
+	list-style: none;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	
+  }
+
+.nav-link {
+	padding: 0 5px;
+	line-height: 15px;
+	transition: .3s;
+	color:gainsboro;
+	text-decoration: none;
+	font-style: oblique;
+	letter-spacing: 3px;
+	transition: color 0.5;
+
+}
+
+
+.name-ul  {
+	margin: 20px;
+	line-height: 40px;
+	list-style: none;
+	color:gainsboro;
+  }
+.name {
+	
+	font-size: 30px;
+}
+.skills {
+	font-size: 14px;
+	padding: 12px;
+}
+
+
+.ava {
+	display: flex;
+	justify-content:center;
+
+}
+.ava-photo {
+	width: 150px;
+	height: auto;
+	border-radius: 50%;
+}
+
+
+.chapter-title {
+	font-family: Roboto;
+	font-size: 20px;
+	letter-spacing: 3px;
+	color:crimson;
+	padding-left: 15%;
+  }
+
+.contacts-ul {
+	display: flex;
+	height: 20px;
+	list-style: none;
+	
+}
+
+.contacts-icon {
+	font-size: 30px;
+}
+.contacts-text {
+	font-size: 15px;
+	margin-top: 10px;
+}
+.contacts-icon i,
+.contacts-text a{
+	text-decoration: none;
+	padding: 0 10px;
+	color: black;
+  }
+.table-lang {
+	margin-left: 50px;
+
+}
+
+.nav-item a:hover,
+.contacts-icon a:hover,
+.contacts-text a:hover {
+	color: crimson;
+}
+
+.pre {
+	padding: 0;
+	margin: 0;
+  }
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+	
+}
+
+.main-container {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 10px;
+
+}
+
+.left-section {
+	width: calc(2 * (100% / 3));
+}
+.right-section {
+	width: calc(100% / 3);
+}
+
+.head-section {
+	width: calc(100% / 3);
+	background-color:rgb(97, 32, 2);
+}
+
+.footer {
+	padding: o;
+	text-align: center;
+	
+}
+
+.logo {
+
+	width: 100px;
+	height: 40px;
+}
+.githab-icon {
+	margin-left: 20px;
+	
+}
+.githab-icon i {
+	font-size: 55px;
+	color: black;
+}
+.year-icon {
+	padding-left: 20px;
+	font-size: 20px;
+	color: black;
+	text-align: start;
+}
+#languages {
+	margin-top: 50px;
+}
+

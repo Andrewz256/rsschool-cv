@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CV FOR RSSchool</title>
+        <link rel="stylesheet" href="./style.css">
+        <link rel="icon" href="./assets/favicon.ico">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">  
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+       
+
+    </head>
+    <body>
+    <header class="header">
+        <h1>Curriculum Vitae</h1>
+        <div class="container main-container">
+            
+            <div class="head-section">
+                <ul class="name-ul">                 
+                    <li class="name">Andrey Zmeevskiy</li>
+                    <li class="skills">JUNIOR FRONT-END DEVELOPER</li>
+                </ul>
+            </div>
+            <div class="head-section">
+                <span class="ava"><img src="./assets/img/ava.jpg" alt="CV photo" class="ava-photo"/></span>
+            </div>
+                
+            
+            <div class="head-section">
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                        <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                        <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                        <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>                        
+                    </ul>
+
+                    <ul class="nav-list">
+                        <li class="nav-item"><a href="#code-example" class="nav-link">Code Example</a></li>
+                        <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>                           
+                    </ul>
+                </nav>
+            </div>
+                          
+        </div>
+            
+    </header>
+
+
+    <main class="main">
+        
+        <div class="container main-container">
+            
+            <div class="right-section">
+                <section id="contacts">
+                    <h2 class="chapter-title">Contacts</h2>
+                    <ul class="contacts-ul">
+                        <li class="contacts-icon"><a href="https://goo.gl/maps/T8QJrQEQ6MJb4JWs6"><i class="fa fa-location-arrow"></i></a></li>
+                        <li class="contacts-text"><a href="https://goo.gl/maps/T8QJrQEQ6MJb4JWs6">Saint-Petersburg, Russia</a></li>
+                    </ul>
+                    <ul class="contacts-ul">
+                        <li class="contacts-icon"><a href="https://t.me/huijong"><i class="fa fa-telegram"></i></a></li>
+                        <li class="contacts-text"><a href="https://t.me/huijong">@huijong</a></li>
+                    </ul>
+                    <ul class="contacts-ul">
+                        <li class="contacts-icon"><a href="https://discord.com/"><i class="fa fa-square"></i></a></li>
+                        <li class="contacts-text" ><a href="https://discord.com/">Discord @andrewz256#4212</a></li>
+                    </ul>
+                    <ul class="contacts-ul">
+                        <li class="contacts-icon"><a href="https://www.linkedin.com/in/andrey-zmeevskiy-184b68a0/"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="contacts-text"><a href="https://www.linkedin.com/in/andrey-zmeevskiy-184b68a0/">Andrey Zmeevskiy</a></li>                        </ul>
+                    <ul class="contacts-ul">
+                        <li class="contacts-icon"><a href="https://github.com/Andrewz256/"><i class="fa fa-github"></i></a></li>
+                        <li class="contacts-text"><a href="https://github.com/Andrewz256/">Andrewz256</a></li>
+                    </ul>
+                </section>        
+                <section id="languages">
+                    <h2 class="chapter-title">Languages</h2>
+                    <table class="table-lang">
+                        <tr>
+                          <td>Russian:</td>
+                          <td>  Native</td>
+                        </tr>
+                        <tr>
+                          <td>English:</td>
+                          <td>  Intermediate</td>
+                        </tr>
+                    </table>
+
+                </section>
+            </div>
+            <div class="left-section">
+                <section id="summary">
+                    <h2 class="chapter-title">Summary</h2>
+                    <p>
+                        In the future I will be a master but now I am a junior. 
+                    </p>
+
+                </section>
+                <section id="skills">
+                    <h2 class="chapter-title">Skills</h2>
+
+                    <ul>
+                        <li>Javascript
+                            <ul> 
+                                <li>REACT </li>
+                                <li>Angular </li>
+                            </ul>
+                        </li>
+                        <li>Python 
+                            <ul>
+                                <li>Django</li>
+                            </ul>
+                        </li>
+                        <li>C#</li>
+                    </ul>
+                </section>
+                <section id="education">
+                    <h2 class="chapter-title">Education</h2>
+                    <p>North-West State Technical University, higher education </p>
+                </section>
+                <section id="code-example">
+                   <h2 class="chapter-title">Code Example</h2>
+                    <pre class="pre">
+function catsInit() {
+    var catimg = document.getElementById('catImg');
+    catimg.addEventListener('click', function(){
+        controller.clickCounter();
+        var catcount = document.getElementById('catCount');
+        catcount.textContent = currentCat.catCount;
+        });
+    };
+                    </pre>
+                </section>
+            </div>
+        </div>
+           
+    </main>
+
+
+    <footer class="footer">
+        <div class="container">
+
+            <span class="rss-icon"> Link to  RSSchool: <a href="https://rs.school/js-stage0/"><img src="./assets/img/rsschool.jpg" alt="rssSchoolLogo" class="logo"/></a></span>
+            <span class="githab-icon">Link to Github: <a href="https://github.com/Andrewz256/" ><i class="fa fa-github"></i></a></span>
+            <span class="year-icon">summer 2022 &copy;Andrewz256</span>
+        </div>
+    </footer>
+    </body>
+</html>
